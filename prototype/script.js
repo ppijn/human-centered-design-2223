@@ -4,29 +4,8 @@ const scrolOnderKnop = document.querySelector(".scrol-onder-knop");
 const kopieerKnop = document.querySelector(".kopieer-knop");
 const plakKnop = document.querySelector(".plak-knop");
 const tekstInput = document.querySelector(".input-text");
-const tekstParagraaf = document.querySelector("p");
 
-// ---- COPY ADN PASTE TEXT FUNCTIONS ----
 
-// Add event listeners
-kopieerKnop.addEventListener("click", kopieerTekst);
-plakKnop.addEventListener("click", plakTekst);
-
-// Function to copy text to localStorage
-function kopieerTekst() {
-  const tekst = tekstParagraaf.innerText;
-  localStorage.setItem("gekopieerdeTekst", tekst);
-  //   alert("Tekst is Gekopieerd!");
-}
-
-// Function to paste text from localStorage
-function plakTekst() {
-  const gekopieerdeTekst = localStorage.getItem("gekopieerdeTekst");
-  //   alert("Tekst is Geplakt!");
-  if (gekopieerdeTekst) {
-    tekstInput.value = gekopieerdeTekst;
-  }
-}
 
 // ---- SCROLLING FUNCTIONS ----
 
@@ -54,37 +33,87 @@ scrolOnderKnop.addEventListener("mouseup", function () {
 
 // ---- START AND STOP SELECTING FUNCTIONS ---
 
-// Select text function
+const text = document.querySelector('.text-area');
+const playBtn = document.querySelector('.selecteer-knop');
+const stopBtn = document.querySelector('.stop-knop');
+let isPlaying = false;
+let intervalId = null;
 let selectionStart = null;
 let selectionEnd = null;
 
-const selecteerKnop = document.querySelector(".selecteer-knop");
-selecteerKnop.addEventListener("click", () => {
-  const paragraph = document.querySelector("p");
-  selectionStart = 0;
-  selectionEnd = 1;
-  paragraph.focus();
+playBtn.addEventListener("click", () => {
+  if (isPlaying) {
+    stopPlaying();
+  } else {
+    selectionStart = text.selectionStart;
+    const nextSpace = text.value.indexOf(" ", selectionStart);
+    selectionEnd = (nextSpace !== -1) ? nextSpace : text.value.length;
+    startPlaying();
+  }
+});
 
-  const selectInterval = setInterval(() => {
-    if (selectionEnd <= paragraph.innerText.length) {
-      paragraph.setSelectionRange(selectionStart, selectionEnd);
-      selectionEnd++;
-    } else {
-      clearInterval(selectInterval);
+stopBtn.addEventListener("click", () => {
+  stopPlaying();
+  saveSelection();
+});
+
+function startPlaying() {
+  isPlaying = true;
+  intervalId = setInterval(() => {
+    selectionEnd++;
+    const nextSpace = text.value.indexOf(" ", selectionEnd);
+    if (nextSpace === -1) {
+      stopPlaying();
+      return;
     }
-  }, 50);
-  //   alert("Selectie start");
-});
+    text.setSelectionRange(selectionStart, nextSpace);
+  }, 150);
+}
 
-// Stop selecting function
-const stopKnop = document.querySelector(".stop-knop");
-stopKnop.addEventListener("click", () => {
-  const paragraph = document.querySelector("p");
-  clearInterval(selectInterval);
-  selectionEnd--;
-  paragraph.setSelectionRange(selectionStart, selectionEnd);
-  //   alert("Selectie Stop");
-});
+function stopPlaying() {
+  isPlaying = false;
+  clearInterval(intervalId);
+  intervalId = null;
+}
+
+function saveSelection() {
+  const selectedText = text.value.substring(selectionStart, selectionEnd);
+  if (selectedText) {
+    localStorage.setItem("selectedText", selectedText);
+  }
+  return selectedText;
+}
+
+
+// ---- COPY ADN PASTE TEXT FUNCTIONS ----
+
+// Add event listeners
+kopieerKnop.addEventListener("click", kopieerTekst);
+plakKnop.addEventListener("click", plakTekst);
+
+// Function to copy text to localStorage
+function kopieerTekst() {
+  const selectedText = saveSelection();
+  if (selectedText) {
+    localStorage.setItem("gekopieerdeTekst", selectedText);
+    alert(`"${selectedText}" is gekopieerd!`);
+  }
+}
+
+
+
+// Function to paste text from localStorage
+function plakTekst() {
+  const gekopieerdeTekst = localStorage.getItem("gekopieerdeTekst");
+  if (gekopieerdeTekst) {
+    tekstInput.value = gekopieerdeTekst;
+    localStorage.removeItem("gekopieerdeTekst"); // clear the key
+  } else {
+    alert("Er is geen tekst om te plakken!");
+  }
+}
+
+
 
 // ---- VUUUUUR ----
 
@@ -95,10 +124,10 @@ vulkaanKnop.addEventListener("click", () => {
   fireEmojis.style.position = "fixed";
   fireEmojis.style.bottom = "0";
   fireEmojis.style.left = "0";
-  fireEmojis.style.fontSize = "50px";
+  fireEmojis.style.fontSize = "60px";
   document.body.appendChild(fireEmojis);
 
-  let pos = -100;
+  let pos = -200;
   const fireInterval = setInterval(() => {
     fireEmojis.style.transform = `translate(${pos}px, ${pos}px) rotate(${
       pos / 2
@@ -108,5 +137,5 @@ vulkaanKnop.addEventListener("click", () => {
       clearInterval(fireInterval);
       document.body.removeChild(fireEmojis);
     }
-  }, 20);
+  }, 30);
 });
