@@ -203,18 +203,21 @@ h1 {
   font-size: 30px;
   font-weight: bold;
   margin-bottom: 20px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h2 {
   font-size: 30px;
   font-weight: bold;
   margin-bottom: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 h3 {
   margin: 50px;
   font-size: 50px;
   font-weight: bold;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 /* Textarea */
 .text-area {
@@ -222,9 +225,11 @@ h3 {
   height: 200px;
   padding: 10px;
   font-size: 16px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   line-height: 1.5;
   border-radius: 5px;
   border: 2px solid #008000;
+  margin-bottom: 20px;
 }
 
 /* Form */
