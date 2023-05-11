@@ -37,12 +37,32 @@
 **Outcomes:** Nicolette would like a solution that would make it easier for her to cut and paste files and text, and to improve the scrolling function on her computer. She would like the solution to be accessible and easy to use, and would prefer if it did not require her to learn complex technologies. One solution she suggests is a menu that appears when she clicks a button or speaks a command, which would allow her to quickly select copy, paste, or other options with her drawing tablet. This would allow her to navigate more easily without needing to scroll or double-click. 
 
 ## Problem 📛
+text
+
 ## Solution ✳️
+text 
+
 ## Prototypes 🛠️
+text
+
 ### Testing round 1 1️⃣ 
+text 
+
 ### Testing round 2 2️⃣
+text
+
 ## Design Principles 
+text
+
 ### Study Situation 💻
+text
+
 ### Prioritise Identity 🆔
+text
+
 ### Ignore Conventions ❌
+text
+
 ### Add Nonsense 🔥
+text
+
