@@ -28,8 +28,8 @@ In my solution I made a little menu in the bottom right corner of the screen lik
 - [Problem 📛](#problem-📛)
 - [Solution ✳️](#solution-✳️)
 - [Prototypes 🛠️](#prototypes-🛠️)
-  - [Testing round 1 1️⃣](#testing-round-1-1️⃣)
-  - [Testing round 2 2️⃣](#testing-round-2-2️⃣)
+  - [Testing round 1️⃣](#testing-round-1️⃣)
+  - [Testing round 2️⃣](#testing-round-2️⃣)
 - [Design Principles](#design-principles)
   - [Study Situation 💻](#study-situation-💻)
   - [Prioritise Identity 🆔](#prioritse-identity-🆔)
@@ -79,7 +79,7 @@ In order to come up with this I had to create some rapid prototypes and sketch o
 
 These solutions all made use of the technologies Nicolette uses on an everyday basis but I tried to sometimes only use certain technologies to generate more ideas. To see the in-depth research done for all the prototypes and test results see the Wiki of this gitHub page, or press this link: https://github.com/ppijn/human-centered-design-2223/wiki/Nicolette-Research-and-Testing-details
 
-### Testing round 1 1️⃣ 
+### Testing round 1️⃣ 
 In this first testing round on April the 20th, we got the chance to ask a few questions to Nicolette and get to know her and the problems she faces. I created the prototype sketched showed before and due to that I got the chance to ask her certain questions that might have been left unanswered but that were pretty important for this project. In this question round we got to really know Nicolette and start creating the first prototype based on that.
 
 **Goal:** The goal of this round was to understand her problems, ask our questions and get to know Nicolette.
@@ -88,7 +88,7 @@ In this first testing round on April the 20th, we got the chance to ask a few qu
 
 
 
-### Testing round 2 2️⃣
+### Testing round 2️⃣
 In the second testing round on April the 26th, we had the chance to meet with Nicolette again, but this time we got to show our prototypes to her and see how she interacts with it. In my prototype I had already created the menu with each button and almost all my functions and buttons worked, so I got to show her a 80% done prototype. During this time the main thing was to really watch her reactions, ask for feedback and see what I could improve to make the prototype even more to her liking.
 
 **Goal:** The goal of this round was to test my prototype and test each element and document her reaction.
