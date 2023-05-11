@@ -1,4 +1,14 @@
 # Nicolette-Besemer-HCD
+<img width="1467" alt="Screenshot 2023-05-11 at 10 21 01" src="https://github.com/ppijn/human-centered-design-2223/assets/99165909/5120fbd0-4143-4533-949b-82bad8a70a73">
+
+## Table of content:
+
+- [Introduction](#introduction)
+- [Problem](#problem)
+- [Prototyping, testing and results](#prototyping-testing-and-results)
+- [Adjustments made from the interviews](#adjustments-made-from-interview)
+- [Design Principles](#design-principles)
+- [Reflection](#reflection)
 
 ## User persona: 
 **Name:** Nicolette Besemer
