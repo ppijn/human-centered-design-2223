@@ -19,7 +19,8 @@ In my solution I made a little menu in the bottom right corner of the screen lik
 * `Scroll-up-button` 🔼: One click moves it up a bit, holding it speeds up the scrolling.
 * `Erupt-button` ♨️: This will make a vulcanic eruption happen at the corner of your screen.
 
-**Link to prototype:** https://ppijn.github.io/human-centered-design-2223/prototype/
+**Link to prototype:** [go](https://ppijn.github.io/human-centered-design-2223/prototype/){:target="_blank"}
+
 
 ## Table of content:
 
