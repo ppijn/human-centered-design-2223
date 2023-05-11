@@ -39,7 +39,7 @@ In my solution I made a little menu in the bottom right corner of the screen lik
 ## User persona 👩🏻‍🦽
 **Name:** Nicolette Besemer
 
-**Demographics:** Middle-aged woman with limited use of her limbs, uses a wheelchair to get around 
+**Demographics:** 76 year old woman with limited use of her limbs, uses a wheelchair to get around 
 
 **Behaviors:** Enjoys visiting natural wonders, passionate about nature, does a lot of organizing for the neighborhood and for other volunteers
 
