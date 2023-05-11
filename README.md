@@ -4,18 +4,17 @@
 ## Table of content:
 
 - [Introduction](#introduction)
-- [User persona](#user-persona)
-- [Problem](#problem)
-- [Solution](#solution)
-- [Prototypes](#prototypes)
-  - [Testing round 1](#testing-round-1)
-  - [Testing round 2](#testing-round-2)
+- [User persona 👩🏻‍🦽](#user-persona-👩🏻‍🦽)
+- [Problem 📛](#problem-📛)
+- [Solution ✳️](#solution-✳️)
+- [Prototypes 🛠️](#prototypes-🛠️)
+  - [Testing round 1 1️⃣](#testing-round-1-1️⃣)
+  - [Testing round 2 2️⃣](#testing-round-2-2️⃣)
 - [Design Principles](#design-principles)
-  - [Study Situation](#study-situation)
-  - [Prioritise Identity](#prioritse-identity)
-  - [Ignore Conventions](#ignore-conventions)
-  - [Add Nonsense](#add-nonsense) 
-- [Reflection](#reflection)
+  - [Study Situation 💻](#study-situation-💻)
+  - [Prioritise Identity 🆔](#prioritse-identity-🆔)
+  - [Ignore Conventions ❌](#ignore-conventions-❌)
+  - [Add Nonsense 🔥](#add-nonsense-🔥) 
 
 ## User persona 👩🏻‍🦽
 **Name:** Nicolette Besemer
