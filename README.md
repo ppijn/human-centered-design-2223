@@ -11,13 +11,13 @@ Nicolette Besemer has little control over her limbs, leading to several problems
 In my solution I made a little menu in the bottom right corner of the screen like the following:
 <img width="723" alt="Screenshot 2023-05-11 at 12 06 48" src="https://github.com/ppijn/human-centered-design-2223/assets/99165909/6cb0a073-74d5-44f8-92a4-88d43983f337">
 #### What do the buttons do? 
-* `Start-button ▶️`: Place the cursor somewhere in the text, press the start button and then replace your cursor at the same position in the text again, this will start the selection.
-* `Stop-button 🚫`: This will stop the selection
-* `Copy-button ✂️`: This will copy the text to the local storage and gives you an alert which text has been copied
-* `Paste-button 🖌️`: This will paste the copied text from the local storage to the paste area.
-* `Scroll-down-button 🔽`: One click moves it down a bit, holding it speeds up the scrolling.
-* `Scroll-up-button 🔼`: One click moves it up a bit, holding it speeds up the scrolling.
-* `Erupt-button ♨️`: This will make a vulcanic eruption happen at the corner of your screen.
+* `Start-button` ▶️: Place the cursor somewhere in the text, press the start button and then replace your cursor at the same position in the text again, this will start the selection.
+* `Stop-button` 🚫: This will stop the selection
+* `Copy-button` ✂️: This will copy the text to the local storage and gives you an alert which text has been copied
+* `Paste-button` 🖌️: This will paste the copied text from the local storage to the paste area.
+* `Scroll-down-button` 🔽: One click moves it down a bit, holding it speeds up the scrolling.
+* `Scroll-up-button` 🔼: One click moves it up a bit, holding it speeds up the scrolling.
+* `Erupt-button` ♨️: This will make a vulcanic eruption happen at the corner of your screen.
 
 **Link to prototype:** https://ppijn.github.io/human-centered-design-2223/prototype/
 
