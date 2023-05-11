@@ -5,7 +5,6 @@ Nicolette Besemer has little control over her limbs, leading to several problems
 
 ## Table of content:
 
-- [Introduction](#introduction)
 - [User persona 👩🏻‍🦽](#user-persona-👩🏻‍🦽)
 - [Problem 📛](#problem-📛)
 - [Solution ✳️](#solution-✳️)
