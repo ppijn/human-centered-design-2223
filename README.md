@@ -1,6 +1,8 @@
 # Nicolette-Besemer-HCD
 <img width="1467" alt="Screenshot 2023-05-11 at 10 21 01" src="https://github.com/ppijn/human-centered-design-2223/assets/99165909/5120fbd0-4143-4533-949b-82bad8a70a73">
 
+Nicolette Besemer has little control over her limbs, leading to several problems that reoccur in her every-day life. Nicolette mentioned she struggles a lot to copy and paste text and files since she cannot use the short cut `crtl + c` and `crtl + v`. This is not the only problem she faces, since she cannot drag and hold her stylus on her tablet she struggles to scroll down and up on pages. Nicolette would love a solution that implements features that solve these challenges that would also work without using her speech program.
+
 ## Table of content:
 
 - [Introduction](#introduction)
