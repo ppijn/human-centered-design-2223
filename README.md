@@ -1,7 +1,7 @@
 # Nicolette-Besemer-HCD
 
 ## User persona: 
-**Name:** Nicolette 
+**Name:** Nicolette Besemer
 
 **Demographics:** Middle-aged woman with limited use of her limbs, uses a wheelchair to get around 
 
