@@ -2,8 +2,12 @@
 
 ## User persona: 
 **Name:** Nicolette 
+
 **Demographics:** Middle-aged woman with limited use of her limbs, uses a wheelchair to get around 
-**Behaviors:** Enjoys visiting natural wonders, passionate about nature, does a lot of organizing for the neighborhood and for other volunteers **Goals/Motivations:** Concerned with accessibility, wants to be able to copy and paste files and text more easily, wants to improve scrolling function 
+
+**Behaviors:** Enjoys visiting natural wonders, passionate about nature, does a lot of organizing for the neighborhood and for other volunteers
+
+**Goals/Motivations:** Concerned with accessibility, wants to be able to copy and paste files and text more easily, wants to improve scrolling function 
 
 **Context:** Nicolette is working on her computer at home, using speech software and a drawing tablet to navigate. She needs to cut and paste files into folders, but finds it difficult to do so with her limited use of her limbs. She also needs to copy and paste text, but this is challenging with her speech software. She is concerned about accessibility and wants to find a solution that is easy to use, as some technologies can be difficult for her to understand. 
 
