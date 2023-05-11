@@ -1,7 +1,25 @@
 # Nicolette-Besemer-HCD
 <img width="1467" alt="Screenshot 2023-05-11 at 10 21 01" src="https://github.com/ppijn/human-centered-design-2223/assets/99165909/5120fbd0-4143-4533-949b-82bad8a70a73">
 
+### Research Question
+How can technology be designed to improve the accessibility of cutting and pasting files and text, as well as scrolling on a computer, for individuals with limited use of their limbs, such as Nicolette, who use speech software and drawing tablets to navigate?
+
+### Problem Definition
 Nicolette Besemer has little control over her limbs, leading to several problems that reoccur in her every-day life. Nicolette mentioned she struggles a lot to copy and paste text and files since she cannot use the short cut `crtl + c` and `crtl + v`. This is not the only problem she faces, since she cannot drag and hold her stylus on her tablet she struggles to `scroll down and up` on pages. Nicolette would love a solution that implements features that solve these challenges that would also work without using her speech program.
+
+### Solution to problem
+In my solution I made a little menu in the bottom right corner of the screen like the following:
+<img width="723" alt="Screenshot 2023-05-11 at 12 06 48" src="https://github.com/ppijn/human-centered-design-2223/assets/99165909/6cb0a073-74d5-44f8-92a4-88d43983f337">
+#### ** What do the buttons do? **
+* `Start-button`: Place the cursor somewhere in the text, press the start button and then replace your cursor at the same position in the text again, this will start the selection.
+* `Stop-button`: This will stop the selection
+* `Copy-button`: This will copy the text to the local storage and gives you an alert which text has been copied
+* `Paste-button`: This will paste the copied text from the local storage to the paste area.
+* `Scroll-down-button`: One click moves it down a bit, holding it speeds up the scrolling.
+* `Scroll-up-button`: One click moves it up a bit, holding it speeds up the scrolling.
+* `Erupt-button`: This will make a vulcanic eruption happen at the corner of your screen.
+
+**Link to prototype:** https://ppijn.github.io/human-centered-design-2223/prototype/
 
 ## Table of content:
 
