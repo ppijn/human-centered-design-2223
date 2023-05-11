@@ -4,13 +4,20 @@
 ## Table of content:
 
 - [Introduction](#introduction)
+- [User persona](#user-persona)
 - [Problem](#problem)
-- [Prototyping, testing and results](#prototyping-testing-and-results)
-- [Adjustments made from the interviews](#adjustments-made-from-interview)
+- [Solution](#solution)
+- [Prototypes](#prototypes)
+ - [Testing round 1](#testing-round-1)
+ - [Testing round 2](#testing-round-2)
 - [Design Principles](#design-principles)
+ - [Study Situation](#study-situation)
+ - [Prioritise Identity](#prioritse-identity)
+ - [Ignore Conventions](#ignore-conventions)
+ - [Add Nonsense](#add-nonsense) 
 - [Reflection](#reflection)
 
-## User persona: 
+## User persona 👩🏻‍🦽
 **Name:** Nicolette Besemer
 
 **Demographics:** Middle-aged woman with limited use of her limbs, uses a wheelchair to get around 
@@ -28,3 +35,14 @@
 **Challenges:** Nicolette finds it difficult to cut and paste files and text due to her limited use of her limbs and speech software. She also experiences challenges when scrolling due to her spasms and difficulty controlling her arm movements. 
 
 **Outcomes:** Nicolette would like a solution that would make it easier for her to cut and paste files and text, and to improve the scrolling function on her computer. She would like the solution to be accessible and easy to use, and would prefer if it did not require her to learn complex technologies. One solution she suggests is a menu that appears when she clicks a button or speaks a command, which would allow her to quickly select copy, paste, or other options with her drawing tablet. This would allow her to navigate more easily without needing to scroll or double-click. 
+
+## Problem 📛
+## Solution ✳️
+## Prototypes 🛠️
+### Testing round 1 1️⃣ 
+### Testing round 2 2️⃣
+## Design Principles 
+### Study Situation 💻
+### Prioritise Identity 🆔
+### Ignore Conventions ❌
+### Add Nonsense 🔥
