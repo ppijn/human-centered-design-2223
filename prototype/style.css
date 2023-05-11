@@ -238,7 +238,8 @@ form {
 }
 
 input {
-  max-width: 50%;
+  max-width: 600px;
+  height: 100px;
 }
 
 .input-text {
