@@ -1,11 +1,6 @@
 # Nicolette-Besemer-HCD
 <img width="1467" alt="Screenshot 2023-05-11 at 10 21 01" src="https://github.com/ppijn/human-centered-design-2223/assets/99165909/5120fbd0-4143-4533-949b-82bad8a70a73">
 
-<<<<<<< HEAD
-
-
- 
-=======
 ### Research Question
 How can technology be designed to improve the accessibility of cutting and pasting files and text, as well as scrolling on a computer, for individuals with limited use of their limbs, such as Nicolette, who use speech software and drawing tablets to navigate?
 
@@ -15,6 +10,7 @@ Nicolette Besemer has little control over her limbs, leading to several problems
 ### Solution to problem
 In my solution I made a little menu in the bottom right corner of the screen like the following:
 <img width="723" alt="Screenshot 2023-05-11 at 12 06 48" src="https://github.com/ppijn/human-centered-design-2223/assets/99165909/6cb0a073-74d5-44f8-92a4-88d43983f337">
+
 #### What do the buttons do? 
 * `Start-button` ▶️: Place the cursor somewhere in the text, press the start button and then replace your cursor at the same position in the text again, this will start the selection.
 * `Stop-button` 🚫: This will stop the selection
@@ -131,4 +127,3 @@ Using this way of thinking, I decided to exactly that. Design something differen
 In order to make this project and solution even more interesting and personal or Nicolette, I decided to add a secret (not so secret) button. Because Nicolette loves nature, visiting natural wonders and the fact that she used to be an geologist, I decided to make this secret button the so called `ERUPT` button! What happens when you press this button? Well, a certain vulcanic eruption will spew fire in the bottom left corner of your screen. This feature was added just to make Nicolette laugh (which she did when testing!) and just to make her day a little bit more exciting whenever she is down or is bored. When testing this feature I got a very good laugh out of Nicolette, who was already curious for this button since I showed her my screen. This so called 'nonsense' was a great succes and added that little personal touch to this project and will make Nicolette laugh at the times she needs it. 
 <img width="640" alt="Screenshot 2023-05-12 at 10 32 25" src="https://github.com/ppijn/human-centered-design-2223/assets/99165909/bd509f2b-bb89-4dd6-823f-c01e73635394">
 
->>>>>>> 0aecca728c636d3578da4fdd35e51bf11f1b42e2
