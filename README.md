@@ -99,17 +99,30 @@ In the second testing round on April the 26th, we had the chance to meet with Ni
 
 
 ## Design Principles 
-text
 
 ### Study Situation 💻
-text
+The first time we read about the challenge Nicolette faces, it was very clearly stated it had to do with the fact that she struggles to `copy` and `paste`. Our challenge was to come up with a solution that would solve this issue. But, when we actually got to speak to Nicolette, it turned out that there where some more challenges that she faces which might have actually been more annoying for her. The fact that she struggels to `scroll` since dragging movements are difficult for her becuase of the little control she has over her limbs, and the sudden spasms she could get. 
+
+After studying her and her behaviour, it was clear as she mentioned it many times that she would love to be able to scroll, while also being able to copy and paste text from websites into her documents. Since Nicolette is 76 years old, we asked her about her technological capabilities and for her age and disability she can get along with technology very good! However, she stated that we shouldn't make it too complicated as she mentioned that there probably are already a bunch of solutions to her challenges, but she just doesn't want to take the time to read up on them. So this means our solution should be clear, precise, easy to understand and solve her challenges.
 
 ### Prioritise Identity 🆔
-text
+Nicolette is a very kind person, she loves to smile and is just very nice to talk to. I really enjoyed having her as my client to solve an issue for her, since it felt like the potential solution could really be a make or break situation for her. Solving these issues will really improve her day to day life in both her work and personal and mental well being. 
+
+Having said that, to design this project I realy tried to stick to her needs and identity. Meaning we choose to go for more natural colours, make clear icons, have a hover text on each button explaining what it does and writing some geological text as a placeholder for this project. Nicolette mentioned she would like the application to also work without speech, since a lot of the times she doesn't want to yell in public spaces to her computer since she will feel bad for the other people. So for this application, I specifically made it so it works with her wacom tablet and not (yet) with her voice.
 
 ### Ignore Conventions ❌
-text
+I kind of ignored her whole challenge, which was to be able to copy and paste in her files! The challenge description was very open and we knew it was copying and pasting, but not exactly what she will be copying and pasting. Since copying and pasting files is something that was just a little bit too difficult for her to understand, I decided to focus on some other issues she mentioned that weren't the challenge. 
+* Being able to scroll up and down
+* Being able to copy certain pieces of a text on websites and paste it where she wants
+
+Stepping away from the intital challenge is what happens in normal life as well, when you think you want something to be solved for you, most of the times its not the case. Take this quote: `"Consumers are stupid, and they know what they want. But if you give them what they want they don’t want it. It needs to be disruptive, destructive and impressive."` 
+
+This is saying that whenever you go to someone to solve an issue for you, like for example a toothbrush. If this toothbrush is designed to be exactly like the consumer wants it to be, they will not be impressed and most of times, will not even use it. That is why being disruptive and impressive will make a difference. If I were to now design a toothbrush for this "client" and make it something they absolutely did not think about, but it will still solve their issues, they will be more impressed and will use it a lot more then you think. 
+
+Using this way of thinking, I decided to exactly that. Design something different from her challenge, make it more impressive and adding more features she might have not thought about in the first place will leave a greater impression, and therefore will give me a more satisfied client.
+
 
 ### Add Nonsense 🔥
-text
+In order to make this project and solution even more interesting and personal or Nicolette, I decided to add a secret (not so secret) button. Because Nicolette loves nature, visiting natural wonders and the fact that she used to be an geologist, I decided to make this secret button the so called `ERUPT` button! What happens when you press this button? Well, a certain vulcanic eruption will spew fire in the bottom left corner of your screen. This feature was added just to make Nicolette laugh (which she did when testing!) and just to make her day a little bit more exciting whenever she is down or is bored. When testing this feature I got a very good laugh out of Nicolette, who was already curious for this button since I showed her my screen. This so called 'nonsense' was a great succes and added that little personal touch to this project and will make Nicolette laugh at the times she needs it. 
+<img width="640" alt="Screenshot 2023-05-12 at 10 32 25" src="https://github.com/ppijn/human-centered-design-2223/assets/99165909/bd509f2b-bb89-4dd6-823f-c01e73635394">
 
